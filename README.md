@@ -12,9 +12,10 @@ Team Members + Email:
 - Jacob Salmon, jhs59@pitt.edu
 
 Design and Links to DF
-- https://data.wprdc.org/dataset/toxic-release-inventory
-- https://data.wprdc.org/dataset/real-estate-sales/resource/5bbe6c55-bce6-4edb-9d04-68edeb6bf7b1
+- https://data.wprdc.org/dataset/311-data
+- https://data.wprdc.org/dataset/allegheny-county-covid-19-tests-cases-and-deaths
 - https://data.wprdc.org/dataset/arrest-data
+- https://www.zillow.com/pittsburgh-pa/home-values/
 
 Abstract
 -
